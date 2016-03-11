@@ -1,0 +1,27 @@
+<jwrapper>
+<BuildOutputFolder>F:\Vatsal\Workspace\GUI Project\JWrapperBuild</BuildOutputFolder>
+<BundleName>Project</BundleName>
+<SplashPNG>C:\Users\admin\AppData\Roaming\JWrapper-JWrapperApp\JWrapper-JWrapperApp-00037895576-complete\resources\jwlogo256.png</SplashPNG>
+<BundleLogoPNG>C:\Users\admin\AppData\Roaming\JWrapper-JWrapperApp\JWrapper-JWrapperApp-00037895576-complete\resources\jwlogo256.png</BundleLogoPNG>
+<InstallType>CurrentUser</InstallType>
+<App>
+  <Name>Project</Name>
+  <LogoPNG>C:\Users\admin\AppData\Roaming\JWrapper-JWrapperApp\JWrapper-JWrapperApp-00037895576-complete\resources\jwlogo256.png</LogoPNG>
+  <MainClass>Main</MainClass>
+</App>
+<SupportedLanguages>en</SupportedLanguages>
+<Windows32JRE></Windows32JRE>
+<Windows64JRE></Windows64JRE>
+<Linux32JRE></Linux32JRE>
+<Linux64JRE></Linux64JRE>
+<Mac64JRE></Mac64JRE>
+<WindowsElevation>None</WindowsElevation>
+<WindowsElevationUiAccess>true</WindowsElevationUiAccess>
+<File classpath='yes'>C:\Users\admin\Desktop\prog.jar</File>
+<JvmOptions>
+<JvmOption>-Xmx256m</JvmOption>
+</JvmOptions>
+<!-- IMPORTANT place custom content BELOW this comment for compatibility with JW App -->
+
+
+</jwrapper>
